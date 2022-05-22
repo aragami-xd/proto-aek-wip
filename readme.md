@@ -11,3 +11,7 @@ Anyways it's an AEK
 ![layouts](./pics/layout.png)
 
 Trying to somehow fit both aek 0° pcb and mx 7° pcb but keeping a tight top piece cutout. More layouts to come. Gotta fix aek plate file first cuz it's fucked but cbb to generate another file
+
+Also credit to Clickpig for naming this board **halfpipe**. Damn the original drawing in paint was bad
+
+![halfpipe](./pics/halfpipe.png)

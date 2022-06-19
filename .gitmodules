@@ -1,0 +1,12 @@
+[submodule "10sp-parts"]
+	path = pcbs/proto-10sp/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "10sp-switches"]
+	path = pcbs/proto-10sp/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "frl-parts"]
+	path = pcbs/proto-frl/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "frl-switches"]
+	path = pcbs/proto-frl/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid

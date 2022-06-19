@@ -12,6 +12,7 @@ Yeah so this pic said it all, but I swear it's a board this time and not just a 
 <br>
 
 **FRL** (current): probably gonna cost like 350usd most for the top, haven't quoted the bottom or figure out what to do with it yet
+
 ![render](./pics/proto-frl.png)
 
 ![render-side](./pics/proto-frl-side.png)

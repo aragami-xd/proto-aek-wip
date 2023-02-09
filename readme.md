@@ -7,61 +7,36 @@ Yeah so this pic said it all, but I swear it's a board this time and not just a 
 <br>
 <br>
 
-### Anyways it's an AEK
+### FRL
 
-<br>
+It's an FRL cuz cbf dealing with aek f row. This is like **rev 5** of the design now
 
-**FRL** (current): i cry every time i look at the manu quote price for the top
+![render](./pics/render.png)
 
-![render](./pics/cloutline.5.png)
+pics rendered from keyshot with a *sekrit tm* design
 
-*pic from rev 4 rendered in keyshot with copper alps plate*
+![fusion pic](./pics/frl.png)
 
-![render](./pics/side-by-side.png)
-
-*pic from rev 4 rendered in fusion*
-
-![render](./pics/internal.png)
-
-*internal pic from rev 4 in fusion, without the backplate*
-
-
-FRL cuz i cbf dealing with aek and normal caps f row height differences. 4 deg typing angle
-
-<br>
-
-**Southpaw** (on hold): rip wallet
-![render](./pics/proto-10x.png)
-
-*pic from rev 1 render*
-
-<br>
-<br>
-
-### Extras
-
-**initial cursed FRL southpaw design**. glad i ditched it
-![render](./pics/proto-8x2.png)
-
+pics from fusion. can somewhat see the mounting points and the db from the pic
 
 <br>
 <br>
 
 ### Progress
-
-Southpaw: on hold
-
-FRL:
 - case: pretty much done at this point
-- pcb: might just rip off harky's pcb
-- plate: too lazy to finish
+- solenoid: solenoid compartment done, solenoid driver and power delivery circuitry still sus af, db compartment kinda done
+- backplate: done
+- alps pcb: routing and schematic done, just need to put in the reference for the diodes and any bit of clean up left
+- alps plate: probably done
+- SI pcb: routing and schematic done, just need to put in the reference for the diodes and any bit of clean up left
+- SI plate: not started yet, probably easy (just need to figure out stabs mount)
 
 TODO:
-- solenoid: compartment is done, need pcb for it
-- beeper
-- ~~(maybe) internal weight~~: 2 internal weights at the solenoid compartments
-- ~~(maybe) daughterboard~~: done
 - find amber alps
+- find sussy aek for the caps
+- make sure stuff work
+- buy solenoids
+- cry looking at wallet
 
 <br>
 <br>
@@ -72,12 +47,15 @@ Also credit to clickpig for naming this board "**halfpipe**". Damn the original 
 
 
 Credits to:
-- all snazgs memebers: phoenix (for board hunting & designing), wren (for everything alps and vints), harky (for pcb), josh (for pcb and the cursed contra), veebee (them for pcb and case designs), clickpig (for the name lmao), gok (for some design inputs), awwyaeh (for some design inputs), and pigu (for being good lad), along with many other good lads (including tragic and grump yes)
+- all snazgs memebers: phoenix (for board hunting & designing), harky & joshajohnson (for pcb), veebee (them for pcb and case designs), gok & awwyaeh (for some design inputs), pigu (for being good lad, please come back dude), clickpig (for the name lmao, and being good lad), along with many other good lads
 - ai03's keyboard atelier members: zlane (for some advise and tutorials), oreo (for aek project)
-- blacksimoan server members: bitten eite (for solenoid recoomendations), simoan (for the server), the recap team (for blacksimon.tv/recap), and the weeb-nsfw posters
+- blacksimoan server members: bitten eite (for solenoid recoomendations), simoan (for the server), the recap team (for blacksimon.tv/recap), and the weeb-nsfw posters, and the vints channel regulars
 
 
 Engravings (potentially):
 - theremingoatimpersonator.com
-- :peeposmiel: (slightly tilted)
-- prototype_7frl 'halfpipe'
+- :peeposmiel: (slightly tilted) for pigu
+- prototype 7frl 'halfpipe'
+- ara original artisanal design craft work studio tm r c sm
+
+Old pics of prev designs, see prev commits or the pics/old folder
